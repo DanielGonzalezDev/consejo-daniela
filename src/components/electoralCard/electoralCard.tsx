@@ -20,6 +20,7 @@ export function ElectoralCard({ namePrincipal, nameSecondary, srcPrincipal, srcS
                         <div className={"img__circle"}></div>
                         <img className={"img"} src={srcPrincipal} alt={namePrincipal} width={120} height={120} />
                     </div>
+                    <h6 className='electoral-card__name'>{namePrincipal}</h6>
                 </article>
                 <article className="electoral-card__avatar electoral-card__avatar--secondary">
                     <div className={"principal-avatar__img"}>
@@ -27,6 +28,7 @@ export function ElectoralCard({ namePrincipal, nameSecondary, srcPrincipal, srcS
                         <div className={"img__circle"}></div>
                         <img className={"img"} src={srcSecondary} alt={nameSecondary} width={120} height={120} />
                     </div>
+                    <h6 className='electoral-card__name'>{nameSecondary}</h6>
                 </article>
             </div>
             <div className="electoral-card__footer">

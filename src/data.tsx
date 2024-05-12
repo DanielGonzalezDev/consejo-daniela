@@ -17,10 +17,10 @@ import { ElectoralCardItem } from "./components/electoralCard/electoralCard";
 export const dataPrincipals1: PrincipalAvatarShape[] = [
     {
         title: "Fórmula Titular",
-        name: "Daniela Figueredo",
-        study: "V Semestre ATP",
-        scope: "T. Boyacá – Casanare",
-        city: "Cetap - Tunja",
+        name: "César Tavorda",
+        study: "VIII Semestre ATP",
+        scope: "T. Quindío – Risaralda",
+        city: "Cetap – Dosquebradas",
         src: boyacaPrincipal
     },
     {
@@ -119,8 +119,8 @@ export const territorialList: ElectoralCardItem[] = [
     {
         srcPrincipal: territorial7,
         srcSecondary: territorial8,
-        namePrincipal: "Yainy Cristal Ramirez",
-        nameSecondary: "Alonso León Cavanzo",
+        namePrincipal: "Alonso León Cavanzo",
+        nameSecondary: "Yainy Cristal Ramirez",
         title: "META - GUAVIARE - GUANIA - VAUPÉS - VICHADA - AMAZONAS"
     },
 ]

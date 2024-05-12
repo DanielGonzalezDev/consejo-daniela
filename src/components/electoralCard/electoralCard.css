@@ -13,6 +13,7 @@
 .electoral-card__avatar {
     border-radius: var(--rounded-1);
     padding: 1rem;
+    width: 45%;
 }
 
 .electoral-card__avatar--primary {
@@ -70,6 +71,12 @@
     height: 1px;
     width: 70%;
     border: 1px solid var(--grayishblue);
+}
+
+.electoral-card__name {
+    color: var(--white);
+    text-align: center;
+    font-size: .8rem;
 }
 
 
