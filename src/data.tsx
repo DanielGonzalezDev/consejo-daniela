@@ -17,7 +17,7 @@ import { ElectoralCardItem } from "./components/electoralCard/electoralCard";
 export const dataPrincipals1: PrincipalAvatarShape[] = [
     {
         title: "Fórmula Titular",
-        name: "César Tavorda",
+        name: "César Taborda",
         study: "VIII Semestre ATP",
         scope: "T. Quindío – Risaralda",
         city: "Cetap – Dosquebradas",
