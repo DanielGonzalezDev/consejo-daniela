@@ -2,7 +2,6 @@ import { Header } from "./components/header.tsx";
 import "./indexPage.css";
 import { Separator } from "./components/separator.tsx";
 import { PrincipalAvatar } from "./components/principalAvatar/principalAvatar.tsx";
-import Img1 from "./assets/imgs/BOYACA_1.png";
 import Logo from "./assets/imgs/logo.jpg";
 import { Proposal } from "./components/proposal/proposal.tsx";
 import { ButtonLink } from "./components/button/button.tsx";
@@ -78,6 +77,7 @@ function IndexPage() {
         }
       </section>
       <ButtonLink classes={"mx-auto"} to="https://drive.google.com/drive/folders/1iQ5_kVFMvzEOJFkZeAHeCs9PF_VZhZV8?usp=sharing" />
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/nsonVN_SAy4?si=-TvOJWBpizd4phBT" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
     </main>
   );
 }

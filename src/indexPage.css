@@ -111,9 +111,10 @@
 
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1240px) {
     .electoral-grid {
         grid-template-columns: 1fr 1fr;
+        max-width: 1000px;
     }
 
     .national-grid {
