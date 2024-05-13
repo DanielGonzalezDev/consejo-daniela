@@ -18,7 +18,7 @@ export const dataPrincipals1: PrincipalAvatarShape[] = [
     {
         title: "Fórmula Titular",
         name: "César Taborda",
-        study: "VIII Semestre ATP",
+        study: "VIII Semestre APT",
         scope: "T. Quindío – Risaralda",
         city: "Cetap – Dosquebradas",
         src: boyacaPrincipal
@@ -26,7 +26,7 @@ export const dataPrincipals1: PrincipalAvatarShape[] = [
     {
         title: "Fórmula Suplente",
         name: "Daniela Figueredo",
-        study: "V Semestre ATP",
+        study: "V Semestre APT",
         scope: "T. Boyacá – Casanare",
         city: "Cetap - Tunja",
         src: boyacaSecondary,
@@ -38,17 +38,17 @@ export const dataPrincipals2: PrincipalAvatarShape[] = [
     {
         title: "Fórmula Titular",
         name: "Jaiver Sarmiento",
-        study: "",
-        scope: "Meta - Guaviare - Guainía",
-        city: "Vaupéz - Amazonas",
+        study: "VIII Semestre APT",
+        scope: "T. Meta - Guaviare - Guainía...",
+        city: "Cetap - Villavicencio",
         src: nacionalPrincipal
     },
     {
         title: "Fórmula Suplente",
         name: "Viviana Valdéz",
-        study: "",
-        scope: "",
-        city: "T. Tolima",
+        study: "VII Semestre",
+        scope: "T. Tolima",
+        city: "Cetap - Melgar",
         src: nacionalSecondary,
         color: "secondary" 
     }
@@ -64,14 +64,14 @@ export const proposalPrincipal1 = [
     </>,
     <>
         <h4>Transparencia y Reformas Normativas</h4>
-        <p className="pl-1">Trabajaremos por facilitar el acceso a la información y promover la participación estudiantil en el proceso de reforma de los estatutos internos, asegurando una representación equitativa de todas las voces y perspectivas en la comunidad estudiantil a nivel nacional. Esto incluirá la reforma del Reglamento Único Estudiantil y del Estatuto Electoral.</p>
+        <p className="pl-1 pt-1">Trabajaremos por facilitar el acceso a la información y promover la participación estudiantil en el proceso de reforma de los estatutos internos, asegurando una representación equitativa de todas las voces y perspectivas en la comunidad estudiantil a nivel nacional. Esto incluirá la reforma del Reglamento Único Estudiantil y del Estatuto Electoral.</p>
     </>,
     <>
         <h4>Calidad Académica a tráves de Incentivos y Convenios</h4>
         <p className="pl-1 pt-1">Vigilar el cumplimiento de las disposiciones legales y los acuerdos establecidos con los estudiantes y los representantes estudiantiles, asegurando que se adapten a las normativas vigentes y promueva la excelencia en la educación superior, en especial aquellos que buscan ampliar los incentivos académicos, la oferta del área de bienestar y la movilidad academica</p>
         <p className="pl-1 pt-1">Impulsar la creación responsable y de calidad de nuevos programas académicos que respondan a las demandas del mercado laboral y contribuyan al desarrollo sostenible. Esto incluye solicitar la actualización de condiciones para cohortes existentes y la apertura de nuevos centros, junto con la propuesta de un estudio diagnóstico y plataforma de seguimiento para mejorar los entornos académicos. </p>
         <p className="pl-1 pt-1">Gestionar estímulos para la investigación estudiantil, acompañando y fomentando la generación y publicación de conocimiento aplicado y relevante para el desarrollo del país. Además, de proporcionar incentivos académicos a estudiantes que publiquen como autor o coautor, generando condiciones para que representen a la escuela en espacios reconocidos a nivel nacional e internacional</p>
-    .</>,
+    </>,
     <>
         <h4>Fortalecimiento de la Infraestructura Física y Tecnológica</h4>
         <p className="pl-1 pt-1">Impulsar el mejoramiento de la infraestructura física propia, alquilada o en comodato, adaptada a las necesidades estudiantiles a nivel nacional, dentro de un marco de responsabilidad fiscal. Esto implica solicitar un informe detallado sobre las condiciones de la infraestructura física y el progreso del Plan Institucional de Infraestructura y Mantenimiento, así como promover su actualización con una proyección ampliada de 4 a 10 años. Asimismo, instar al cumplimiento y mejora de las condiciones de infraestructura en contratos de arrendamiento o convenios suscritos o que se suscriban a futuro. </p>

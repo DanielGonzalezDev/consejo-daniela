@@ -15,7 +15,7 @@
     height: 13rem;
     background-color: var(--red);
     border-radius: 50%;
-    left: 9rem;
+    left: 8.5rem;
 }
 
 .principal-avatar__content::before {
@@ -64,7 +64,7 @@
     font-weight: 600;
     font-style: normal;
     color: var(--white);
-    font-size: .8rem;
+    font-size: .7rem;
 }
 
 .principal-avatar > .principal-avatar__img {
